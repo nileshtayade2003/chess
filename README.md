@@ -26,6 +26,7 @@ Check out the live version of the game: [Chess Game](https://chess-c2kn.onrender
 2. **Automatic Pairing:** The first player to open the site will see the chessboard. When a second player opens the site, they will automatically connect to the first player.
 3. **Waiting Queue:** If a third player opens the site, they will be placed in a queue until another player joins.
 4. **Play Chess:** Enjoy the game and test your skills against another real-time opponent.
+5. **New game** If user click on new game button the game will reset
 
 ## Installation (Local Development)
 
@@ -33,8 +34,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/chess-game.git
-    cd chess-game
+    git clone https://github.com/yourusername/chess.git
+    cd chess
     ```
 
 2. **Install dependencies:**
